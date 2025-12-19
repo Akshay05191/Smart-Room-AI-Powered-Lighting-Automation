@@ -1,4 +1,5 @@
 🏠 Smart Room: AI-Powered Lighting & Automation
+
 An intelligent room automation system that uses computer vision to monitor human presence and manage office lighting. The system detects inhabitants in real-time, manages lighting states with a delayed-off feature to save energy, and provides auditory feedback.
 
 🌟 Key Features
